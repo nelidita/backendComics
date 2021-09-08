@@ -11,7 +11,7 @@ origen cruzado cuando solicita un recurso desde un dominio distinto, un protocol
 del documento que lo generó.
 información encontrada en: https://developer.mozilla.org/es/docs/Web/HTTP/CORS
 
-##Solución al problema
+## Solución del problema
 
 Para solucionar el error y poder acceder a la data, la opción era acceder desde el servidor haciendo uso de
 express y este hiciera la petición en vez de nuestra aplicación de frontend.
